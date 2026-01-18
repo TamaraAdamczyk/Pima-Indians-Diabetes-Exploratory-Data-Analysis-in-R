@@ -57,3 +57,10 @@ This suggests that higher BMI is associated with higher glucose, but BMI alone e
 - The workflow is fully reproducible, transparent, and easy to extend.
 
 This project demonstrates practical data‑cleaning decisions, clear documentation, and clinically informed reasoning.
+
+Resources:
+Kaggle Dataset
+Kaggle. (Kumar) Pima Indians Diabetes Database. Available at: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database (Accessed: 17 January 2026).
+
+RStudio
+Posit.(2023) RStudio: Integrated Development Environment for R. Available at: https://posit.co/products/open-source/rstudio/ (Accessed: 17 January 2026).
